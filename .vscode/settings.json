@@ -1,5 +1,5 @@
 {
-  "git.ignoreLimitWarning": true,
+  "liveServer.settings.port": 5501,
   "files.exclude": {
     "**/.git": false,
     "**/.svn": true,
